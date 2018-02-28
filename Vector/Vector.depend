@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1517075552 source:c:\users\lenovo\desktop\docs\ml hiring challenge\vector\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<utility>
+	<set>
+
